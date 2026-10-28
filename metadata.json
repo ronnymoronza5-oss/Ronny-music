@@ -1,0 +1,6 @@
+{
+  "name": "My Personal Website",
+  "description": "A modern, mobile-friendly personal portfolio website showcasing projects, skills, biography, and contact channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
